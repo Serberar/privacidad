@@ -20,6 +20,10 @@ Página estática con la política de privacidad de mis aplicaciones. Está publ
 
 Edita `index.html` y haz push a `main`: GitHub Pages publica el cambio en uno o dos minutos.
 
+## Licencia
+
+Publicado con licencia [MIT](LICENSE).
+
 ## Autor
 
 Sergio Bernabé
