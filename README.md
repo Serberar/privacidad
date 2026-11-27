@@ -2,8 +2,6 @@
 
 Página estática con la política de privacidad de mis aplicaciones. Está publicada con GitHub Pages para poder enlazarla desde las fichas de las apps y desde los formularios que recogen datos.
 
-**Ver online:** https://serberar.github.io/privacidad/
-
 ## Qué incluye
 
 1. Responsable del tratamiento.
